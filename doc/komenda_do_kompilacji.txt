@@ -1,0 +1,1 @@
+g++ cloth.cpp cloth.h coatroom.cpp coatroom.h filereader.cpp filereader.h filesaver.cpp filesaver.h main.cpp menu.h menu.cpp number.h number.cpp
