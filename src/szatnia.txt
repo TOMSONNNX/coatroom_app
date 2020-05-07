@@ -1,0 +1,36 @@
+1
+Tomasz Grzelakowski
+kurtka
+2
+Kazik Dolny
+Bluza
+3
+Katarzyna C
+Buty kurtka
+4
+Mikolaj Kar
+Bluza plaszcz
+5
+Karolajna Ccc
+Kurtka torebka
+6
+Patrycja Klej
+Kurtka zimowa
+7
+Martyna Plastik
+Rekawiczki plaszcz
+8
+Monika P
+Kurtka bluza
+9
+Amelia F
+Buty
+10
+Aleks K
+Plecak
+11
+Marcel kes
+Plecak kurtka
+12
+Kacper Flet
+Torba
